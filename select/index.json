@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "base_track": "君がいない",
+  "base_artist": "Saucy Dog",
+  "createdAt": "2025-12-20T05:12:20.584812Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "君がいない、あの日から…",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/01_君がいない、あの日から..._Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "EDEN ~君がいない~",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/02_EDEN_~君がいない~_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "君がいない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/03_君がいない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "EDEN 〜君がいない〜",
+      "artist": "Janne Da Arc",
+      "has_synced": true,
+      "path": "select/04_EDEN_〜君がいない〜_Janne_Da_Arc.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "EDEN ～君がいない～",
+      "artist": "Janne Da Arc",
+      "has_synced": false,
+      "path": "select/05_EDEN_~君がいない~_Janne_Da_Arc.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "君がいない、あの日から・・・",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/06_君がいない、あの日から・・・_Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "君がいない",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/07_君がいない_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "君がいない、あの日から…",
+      "artist": "Acid Black Cherry",
+      "has_synced": true,
+      "path": "select/08_君がいない、あの日から..._Acid_Black_Cherry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "君がいない (B-version)",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/09_君がいない_(B-version)_ZARD.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "君がいない",
+      "artist": "ZARD",
+      "has_synced": false,
+      "path": "select/10_君がいない_ZARD.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "君がいない（B-version）",
+      "artist": "ZARD",
+      "has_synced": true,
+      "path": "select/11_君がいない(B-version)_ZARD.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君がいない",
+      "artist": "Saucy Dog",
+      "has_synced": false,
+      "path": "select/pl_01_君がいない_Saucy_Dog.txt"
+    }
+  ]
+}
